@@ -1,6 +1,11 @@
 
 using namespace std;
 
+/*
+'struct ListNode' here is included only for information.
+It is defined internally on leetcode.com and should 
+not be included in the code when running it on the website.
+ */
 struct ListNode {
     int val;
     ListNode* next;
