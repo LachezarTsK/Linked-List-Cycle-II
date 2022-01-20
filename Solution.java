@@ -33,6 +33,11 @@ public class Solution {
     }
 }
 
+/*
+'class ListNode' here is included only for information.
+It is defined internally on leetcode.com and should 
+not be included in the code when running it on the website.
+ */
 class ListNode {
 
     int val;
